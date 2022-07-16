@@ -27143,8 +27143,8 @@
         "safetyCheck": true,
         "combatBGMLevel": 5,
         "entityBudgetLevel": 1,
-        "hpBase": 149.4239959716797,
-        "attackBase": 62.79999923706055,
+        "hpBase": 2.7167999744415283,
+        "attackBase": 12.5600004196167,
         "defenseBase": 500.0,
         "fireSubHurt": 0.10000000149011612,
         "grassSubHurt": 0.10000000149011612,
@@ -27183,15 +27183,14 @@
         "campID": 4001,
         "LODPatternName": "Animal_Default_01"
     },
-	{
+      {
         "monsterName": "Animal_Boar_Grass_Small",
         "type": "MONSTER_ORDINARY",
-        "securityLevel": "ELITE",
-        "scriptDataPathHashSuffix": 3435351308,
+        "scriptDataPathHashSuffix": 1151001883,
         "scriptDataPathHashPre": 84,
         "serverScript": "",
-        "combatConfigHashSuffix": 1056910095,
-        "combatConfigHashPre": 108,
+        "combatConfigHashSuffix": 1009544459,
+        "combatConfigHashPre": 155,
         "affix": [],
         "ai": "sentry02",
         "equips": [
@@ -27199,43 +27198,21 @@
             0
         ],
         "hpDrops": [
-            {
-                "dropId": 22010050,
-                "hpPercent": 75.0
-            },
-            {
-                "dropId": 22010050,
-                "hpPercent": 50.0
-            },
-            {
-                "dropId": 22010050,
-                "hpPercent": 25.0
-            }
+            {},
+            {},
+            {}
         ],
-        "killDropId": 22003100,
-        "isInvisibleReset": true,
         "excludeWeathers": "\u96e8,\u96f7\u96e8,\u96ea",
         "featureTagGroupID": 28020301,
         "mpPropID": 1,
         "skin": "",
         "describeId": 28020314,
-        "safetyCheck": true,
-        "combatBGMLevel": 5,
-        "entityBudgetLevel": 1,
-        "hpBase": 149.4239959716797,
-        "attackBase": 62.79999923706055,
-        "defenseBase": 500.0,
-        "fireSubHurt": 0.10000000149011612,
-        "grassSubHurt": 0.10000000149011612,
-        "waterSubHurt": 0.10000000149011612,
-        "elecSubHurt": 0.10000000149011612,
-        "windSubHurt": 0.10000000149011612,
-        "iceSubHurt": 0.30000001192092896,
-        "rockSubHurt": 0.10000000149011612,
+        "hpBase": 2.7167999744415283,
+        "attackBase": 12.5600004196167,
         "propGrowCurves": [
             {
                 "type": "FIGHT_PROP_BASE_HP",
-                "growCurve": "GROW_CURVE_HP"
+                "growCurve": "GROW_CURVE_HP_LITTLEMONSTER"
             },
             {
                 "type": "FIGHT_PROP_BASE_ATTACK",
@@ -27246,19 +27223,18 @@
                 "growCurve": "GROW_CURVE_DEFENSE"
             }
         ],
-        "physicalSubHurt": 0.5,
-        "prefabPathRagdollHashSuffix": 1484932155,
-        "prefabPathRagdollHashPre": 146,
+        "prefabPathRagdollHashSuffix": 3336701412,
+        "prefabPathRagdollHashPre": 202,
         "id": 28020314,
-        "nameTextMapHash": 3435351308,
-        "prefabPathHashSuffix": 957869449,
-        "prefabPathHashPre": 241,
-        "prefabPathRemoteHashSuffix": 2580068062,
-        "prefabPathRemoteHashPre": 224,
-        "controllerPathHashSuffix": 3990190187,
-        "controllerPathHashPre": 171,
-        "controllerPathRemoteHashSuffix": 2076782843,
-        "controllerPathRemoteHashPre": 148,
+        "nameTextMapHash": 3209357948,
+        "prefabPathHashSuffix": 1405889929,
+        "prefabPathHashPre": 30,
+        "prefabPathRemoteHashSuffix": 1171460053,
+        "prefabPathRemoteHashPre": 206,
+        "controllerPathHashSuffix": 3037185317,
+        "controllerPathHashPre": 173,
+        "controllerPathRemoteHashSuffix": 1306853395,
+        "controllerPathRemoteHashPre": 247,
         "campID": 4001,
         "LODPatternName": "Animal_Default_01"
     },
@@ -34887,7 +34863,7 @@
         "skin": "",
         "describeId": 28060201,
         "hpBase": 9999.0,
-        "attackBase": 0.5099999904632568,
+        "attackBase": 12.5600004196167,
         "propGrowCurves": [
             {
                 "type": "FIGHT_PROP_BASE_HP",
@@ -35791,7 +35767,7 @@
         "mpPropID": 1,
         "skin": "",
         "describeId": 28060101,
-        "hpBase": 2.7167999744415283,
+        "hpBase": 9999.0,
         "attackBase": 12.5600004196167,
         "propGrowCurves": [
             {
