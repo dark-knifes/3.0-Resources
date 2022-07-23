@@ -219,11 +219,6 @@
         "nameTextMapHash": 2971259863,
         "icon": "UI_AnimalIcon_Boar_04"
     },
-	{
-        "id": 26110101,
-        "nameTextMapHash": 607377196,
-        "icon": "UI_AnimalIcon_Fungus_Raptor"
-    },
     {
         "id": 28020307,
         "nameTextMapHash": 3005066679,
@@ -729,36 +724,6 @@
         "nameTextMapHash": 1959967951,
         "icon": "UI_AnimalIcon_Boar_01"
     },
-	{
-        "id": 28060601,
-        "nameTextMapHash": 1160225108,
-        "icon": "UI_Animal_Megamoth_Jungle"
-    },
-	{
-        "id": 26120101,
-        "nameTextMapHash": 3177626116,
-        "icon": "UI_Monster_Fungus_Amanita_Unu_Anudatta_Grass"
-    },
-	{
-        "id": 28020313,
-        "nameTextMapHash": 1916771356,
-        "icon": "UI__AnimalIcon_Boar_Grass"
-    },
-	{
-        "id": 26020301,
-        "nameTextMapHash": 581340876,
-        "icon": "UI_Monster_Regisvine_Electric"
-    },
-	{
-        "id": 24030201,
-        "nameTextMapHash": 4121540020,
-        "icon": "UI__Monster_Gargoyle_Ground"
-    },
-	{
-        "id": 28060101,
-        "nameTextMapHash": 2621135756,
-        "icon": "UI_AnimalIcon_Gator_01"
-    },
     {
         "id": 28220303,
         "nameTextMapHash": 1689640367,
@@ -878,11 +843,6 @@
         "id": 28220701,
         "nameTextMapHash": 3135954583,
         "icon": "UI_AnimalIcon_Vulpes_01"
-    },
-	{
-        "id": 28060201,
-        "nameTextMapHash": 1357052844,
-        "icon": "UI_AnimalIcon_Panther_01"
     },
     {
         "id": 28220901,
