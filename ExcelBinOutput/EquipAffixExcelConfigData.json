@@ -15537,7 +15537,7 @@
                 "value": 0.11999999731779099
             },
             {
-                "propType": "FIGHT_PROP_ELECTRIC_ADD_HURT",
+                "propType": "FIGHT_PROP_ELEC_ADD_HURT",
                 "value": 0.11999999731779099
             },
             {
@@ -15585,7 +15585,7 @@
                 "value": 0.15000000596046448
             },
             {
-                "propType": "FIGHT_PROP_ELECTRIC_ADD_HURT",
+                "propType": "FIGHT_PROP_ELEC_ADD_HURT",
                 "value": 0.15000000596046448
             },
             {
@@ -15633,7 +15633,7 @@
                 "value": 0.18000000715255737
             },
             {
-                "propType": "FIGHT_PROP_ELECTRIC_ADD_HURT",
+                "propType": "FIGHT_PROP_ELEC_ADD_HURT",
                 "value": 0.18000000715255737
             },
             {
@@ -15681,7 +15681,7 @@
                 "value": 0.20999999344348907
             },
             {
-                "propType": "FIGHT_PROP_ELECTRIC_ADD_HURT",
+                "propType": "FIGHT_PROP_ELEC_ADD_HURT",
                 "value": 0.20999999344348907
             },
             {
@@ -15729,7 +15729,7 @@
                 "value": 0.23999999463558197
             },
             {
-                "propType": "FIGHT_PROP_ELECTRIC_ADD_HURT",
+                "propType": "FIGHT_PROP_ELEC_ADD_HURT",
                 "value": 0.23999999463558197
             },
             {
